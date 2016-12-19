@@ -1,0 +1,36 @@
+{
+  "name": "string-tunings",
+  "version": "0.0.1",
+  "description": "API for the tunings of string instruments",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PirtleShell/string-tunings.git"
+  },
+  "keywords": [
+    "tune",
+    "instruments",
+    "guitar",
+    "bass",
+    "ukelele",
+    "violin",
+    "music",
+    "api"
+  ],
+  "author": "Robert Pirtle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PirtleShell/string-tunings/issues"
+  },
+  "homepage": "https://github.com/PirtleShell/string-tunings#readme",
+  "xo": {
+    "space": true,
+    "esnext": true
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
+  }
+}
